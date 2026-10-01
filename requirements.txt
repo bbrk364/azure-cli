@@ -1,4 +1,4 @@
 # basic
-setuptools==40.0.0
-wheel==0.31.1
+setuptools==83.0.0
+wheel==0.38.1
 pip>=9.0.1
